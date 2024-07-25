@@ -5,7 +5,7 @@
 ## Overview
 
 Battery Alarm is an Android application that monitors the battery level of your device. It notifies the user when the battery level is low (below 20%) by displaying a notification and updating the UI with appropriate images indicating the battery status.
-![Promo](https://github.com/MalakAmgad/BattaryAlarm/blob/master/Android%20Emulator%20-%20Android_13_5554%202024-07-24%2003-41-09.gif)
+![Promo](https://github.com/MalakAmgad/BattaryAlarm/blob/master/promo.gif)
 
 ## Features
 
